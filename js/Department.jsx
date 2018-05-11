@@ -9,8 +9,7 @@ function findDepartment(name) {
 const Department = props => {
   const department = findDepartment(props.params.name);
   return (
-    <div>
-      <h1>KKKK</h1>
+    <div id="info">
       {department}
     </div>
   );
