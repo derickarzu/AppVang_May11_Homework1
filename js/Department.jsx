@@ -1,8 +1,8 @@
 import React from 'react';
 
 const Department = () => (
-  <div>
-    <h1>Departmentos</h1>
+  <div id="info">
+    <h1>Departmento</h1>
   </div>
 );
 

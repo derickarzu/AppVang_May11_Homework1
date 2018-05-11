@@ -2,33 +2,33 @@
     "departments": [
         {
             "name": "Atlantida",
-            "description": "",
-            "imageURL": ""
+            "description": "El departamento fue creado oficialmente en 1902, desde territorios pertenecientes a Colón, Cortés y Yoro. Durante 1910 la población del departamento era de 11.370 habitantes.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Atlantida_in_Honduras.svg/245px-Atlantida_in_Honduras.svg.png"
         },
         {
             "name": "Cortés",
-            "description": "",
-            "imageURL": ""
+            "description": "Históricamente, el Departamento de Cortés es uno de los más importantes de Honduras. El 14 de agosto de 1502, desembarcó Cristóbal Colón en el cabo Caxinas, hoy Trujillo, y tomó posesión del territorio de la actual Honduras en nombre de los reyes de España.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cortes_in_Honduras.svg/245px-Cortes_in_Honduras.svg.png"
         },
         {
             "name": "Yoro",
-            "description": "",
-            "imageURL": ""
+            "description": "Una vez declarado el Estado de Honduras y siendo su primer Jefe Supremo de Estado el Licenciado Dionisio de Herrera, el territorio hondureño se dividió por primera vez según la Constitución de 1825; Por lo cual aparece reconocido y creado el departamento de Yoro.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Yoro_in_Honduras.svg/1200px-Yoro_in_Honduras.svg.png"
         },
         {
             "name": "Francisco Morazán",
-            "description": "",
-            "imageURL": ""
+            "description": "El departamento se fundó por decreto de la primera Asamblea Constituyente del Estado, expedida el 28 de junio de 1825 durante la administración de Dionisio de Herrera.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Francisco_Morazan_in_Honduras.svg/300px-Francisco_Morazan_in_Honduras.svg.png"
         },
         {
             "name": "Ocotepeque",
-            "description": "",
-            "imageURL": ""
+            "description": "En la primera División Política Territorial en 1825, formaba parte del partido de Santa Rosa de Los Llanos (hoy Santa Rosa de Copán), departamento de Gracias.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ocotepeque_in_Honduras.svg/1200px-Ocotepeque_in_Honduras.svg.png"
         },
         {
             "name": "Gracias a Dios",
-            "description": "",
-            "imageURL": ""
+            "description": "Gracias a Dios es el segundo departamento más grande de los 18 departamentos forman la república de Honduras, su capital es Puerto Lempira. En él se encuentra localizada la Reserva de la Biosfera de Río Plátano y la Laguna de Caratasca.",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gracias_a_Dios_in_Honduras.svg/1200px-Gracias_a_Dios_in_Honduras.svg.png"
         }
     ]
 }
