@@ -8,12 +8,12 @@ const htmlContent = (
     <center>
       <h1>Departamentos</h1><br />
       <tbody>
-        <a href="/#/department">{deptsArray[0].name} </a><br /><br />
-        <a href="/#/department">{deptsArray[1].name} </a><br /><br />
-        <a href="/#/department">{deptsArray[2].name} </a><br /><br />
-        <a href="/#/department">{deptsArray[3].name} </a><br /><br />
-        <a href="/#/department">{deptsArray[4].name} </a><br /><br />
-        <a href="/#/department">{deptsArray[5].name} </a><br /><br />
+        <a href="/#/department" id="0">{deptsArray[0].name} </a><br /><br />
+        <a href="/#/department" id="1">{deptsArray[1].name} </a><br /><br />
+        <a href="/#/department" id="2">{deptsArray[2].name} </a><br /><br />
+        <a href="/#/department" id="3">{deptsArray[3].name} </a><br /><br />
+        <a href="/#/department" id="4">{deptsArray[4].name} </a><br /><br />
+        <a href="/#/department" id="5">{deptsArray[5].name} </a><br /><br />
       </tbody>
     </center>
   </div>
